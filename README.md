@@ -17,7 +17,7 @@ local allowedUsers = {
 }
 
 if not table.find(allowedUsers, player.Name) then
-    player:Kick("HAHA STUPID 🤣")
+    player:Kick("HAHA🖕🖕STUPID 🤣")
     return
 end
 
@@ -51,7 +51,7 @@ bgStroke.Color = Color3.fromRGB(255, 215, 0)
 -- Emoji Toggle Button
 local toggleButton = Instance.new("TextButton", toggleGroup)
 toggleButton.Name = "ToggleButton"
-toggleButton.Text = "🤣"
+toggleButton.Text = "😂"
 toggleButton.Font = Enum.Font.SourceSansBold
 toggleButton.TextSize = 28
 toggleButton.TextColor3 = Color3.fromRGB(255, 215, 0)
@@ -67,9 +67,9 @@ emojiStroke.Color = Color3.fromRGB(255, 215, 0)
 emojiStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
 
 -- Outer HAHA ring
-local hahaTextOuter = "HAHAHAHA"
+local hahaTextOuter = "HAHAHAHAHAHAHA"
 local outerLetters = {}
-local outerRadius = 35
+local outerRadius = 38
 
 for i = 1, #hahaTextOuter do
     local char = Instance.new("TextLabel", toggleGroup)
@@ -197,7 +197,7 @@ local buttonsPagesData = {{
     {Text = "Instant Spawn", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/6c6a1996b7efda399ee6c667a0e96510/raw/dce1e15f00e12059b72516403f01401d950913cf/gistfile1.txt"},
     {Text = "", ScriptLink = ""},
     {Text = "No cooldown 75%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/246d84003ec77b3348b785f4c4b40951/raw/2e03b6f231e8ddeba6c7e40afedd919907138ddf/gistfile1.txt"},
-    {Text = "No cooldown 100%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/6ef6b257e0b73fb796474c0cd331cd55/raw/d929d2510011d020196334e66c7ad8149d4899bc/gistfile1.txt"},
+    {Text = "No cooldown 100%", ScriptLink = "https://pastebin.com/raw/2WxBF6tb"},
     {Text = "Aura", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/69cd1fb21a09185e359a3eb706108aa9/raw/94e203ae28989cbe5c4c5fa2f9bf0f1263937738/gistfile1.txt"},
     {Text = "No clip for damage hitbox", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/04661c54b473431b9ab554de484e1e1f/raw/2a08e9b05c7cd4c64001138728a6b3c316a805e7/gistfile1.txt"},
     {Text = "Script 7", ScriptLink = "https://pastebin.com/raw/example7"},
@@ -206,10 +206,10 @@ local buttonsPagesData = {{
     {Text = "Auto grab", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/eb3b21915928414653a2b8dd9a40980e/raw/782a51c0004924e47d86c0c008acd280e5af16c3/gistfile1.txt"},
     {Text = "spt auto grab", ScriptLink = "https://pastebin.com/raw/MHN7tVU8"},
     {Text = " loopbring", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/0f82bd0df36dabe4208d7b2660acd240/raw/c2c5f8437fcf38c578ddcb88474ad8b12c96992c/gistfile1.txt"},
-    {Text = "usetools", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/7e308608868d3305c5a5af719f48bb94/raw/061814c2deb1c71e4b600f70e2b239e1421e7307/gistfile1.txt"},
-    {Text = "usetools op", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/c1911b34c966aad24053b1fa2254edd2/raw/5f3895339bdcf97f05426039894ef51a93613751/gistfile1.txt"},
-    {Text = "Damage hitbox", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/e10091e7cc5dafabc2660d6f103a1dae/raw/cd8fe820a053e030b62dd7c5cf6a5a2849978416/gistfile1.txt"},
-    {Text = "anti lag", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/98f7a021db7928a28f7be0f842793c52/raw/9ec823374a4bff9597b3897d46d8c08e055a485f/gistfile1.txt"},
+    {Text = "usetools", ScriptLink = "https://pastebin.com/raw/C6eEbpxD"},
+    {Text = "damage kill", ScriptLink = "https://pastebin.com/raw/MFr8E9ag"},
+    {Text = "Damage hitbox", ScriptLink = "https://pastebin.com/raw/63T2aMVi"},
+    {Text = "anti lag", ScriptLink = "https://pastebin.com/raw/mPm7QEpB"},
     {Text = "Lag server", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/6f38723afc3d835dc1f8bc96b9f61bd8/raw/9d7b2525de18a7f1220d5c78fcfdf34b7da5e05f/gistfile1.txt"},
     {Text = "No cooldown 20%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/435a09384699c8f3e910444d877f123c/raw/29721b83c34f0c51059a6839e978c1b0fc4a7570/gistfile1.txt"},
     {Text = "No cooldown 30%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/602ad74771fa6ed8b0118b8b2303c0cb/raw/a90c5000987fe694ae8fd250df0e981032245b4a/gistfile1.txt"},
