@@ -202,7 +202,7 @@ local buttonsPagesData = {{
     {Text = "No clip for damage hitbox", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/04661c54b473431b9ab554de484e1e1f/raw/2a08e9b05c7cd4c64001138728a6b3c316a805e7/gistfile1.txt"},
     {Text = "grab base", ScriptLink = "https://pastebin.com/raw/KeFcGRBg"},
     {Text = "Script 8", ScriptLink = "https://pastebin.com/raw/example8"},
-    {Text = "Script 9", ScriptLink = "https://pastebin.com/raw/example9"},
+    {Text = "FPS", ScriptLink = "https://pastebin.com/raw/HDEtM9Am"},
     {Text = "Auto grab", ScriptLink = "https://pastebin.com/raw/uASxtqN3"},
     {Text = "spt auto grab", ScriptLink = "https://pastebin.com/raw/MHN7tVU8"},
     {Text = " loopbring", ScriptLink = "https://pastebin.com/raw/NHcMJWXu"},
