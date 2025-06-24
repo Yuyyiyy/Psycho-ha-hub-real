@@ -194,7 +194,7 @@ Instance.new("UICorner", pageBtn).CornerRadius = UDim.new(0, 6)
 
 -- Script Buttons Data
 local buttonsPagesData = {{
-    {Text = "Instant Spawn", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/6c6a1996b7efda399ee6c667a0e96510/raw/dce1e15f00e12059b72516403f01401d950913cf/gistfile1.txt"},
+    {Text = "Instant Spawn", ScriptLink = "https://pastebin.com/raw/wANR1CM0"},
     {Text = "", ScriptLink = ""},
     {Text = "No cooldown 75%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/246d84003ec77b3348b785f4c4b40951/raw/2e03b6f231e8ddeba6c7e40afedd919907138ddf/gistfile1.txt"},
     {Text = "No cooldown 100%", ScriptLink = "https://pastebin.com/raw/Qxnj4RG9"},
@@ -206,7 +206,7 @@ local buttonsPagesData = {{
     {Text = "Auto grab", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/eb3b21915928414653a2b8dd9a40980e/raw/782a51c0004924e47d86c0c008acd280e5af16c3/gistfile1.txt"},
     {Text = "spt auto grab", ScriptLink = "https://pastebin.com/raw/MHN7tVU8"},
     {Text = " loopbring", ScriptLink = "https://pastebin.com/raw/Q46Upt6Y"},
-    {Text = "usetools", ScriptLink = "https://pastebin.com/raw/C6eEbpxD"},
+    {Text = "usetools", ScriptLink = "https://pastebin.com/raw/fnGNW8Lk"},
     {Text = "damage kill", ScriptLink = "https://pastebin.com/raw/MFr8E9ag"},
     {Text = "Damage hitbox", ScriptLink = "https://pastebin.com/raw/63T2aMVi"},
     {Text = "anti lag", ScriptLink = "https://pastebin.com/raw/mPm7QEpB"},
