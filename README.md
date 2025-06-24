@@ -203,7 +203,7 @@ local buttonsPagesData = {{
     {Text = "grab base", ScriptLink = "https://pastebin.com/raw/KeFcGRBg"},
     {Text = "Script 8", ScriptLink = "https://pastebin.com/raw/example8"},
     {Text = "Script 9", ScriptLink = "https://pastebin.com/raw/example9"},
-    {Text = "Auto grab", ScriptLink = "https://pastebin.com/raw/cLf0sRPY"},
+    {Text = "Auto grab", ScriptLink = "https://pastebin.com/raw/uASxtqN3"},
     {Text = "spt auto grab", ScriptLink = "https://pastebin.com/raw/MHN7tVU8"},
     {Text = " loopbring", ScriptLink = "https://pastebin.com/raw/K6aAyeE8"},
     {Text = "usetools", ScriptLink = "https://pastebin.com/raw/fnGNW8Lk"},
