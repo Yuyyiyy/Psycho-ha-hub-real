@@ -194,7 +194,7 @@ Instance.new("UICorner", pageBtn).CornerRadius = UDim.new(0, 6)
 
 -- Script Buttons Data
 local buttonsPagesData = {{
-    {Text = "Instant Spawn", ScriptLink = "https://pastebin.com/raw/wANR1CM0"},
+    {Text = "Instant Spawn", ScriptLink = "https://pastebin.com/raw/CYa08iQL"},
     {Text = "", ScriptLink = ""},
     {Text = "No cooldown 75%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/246d84003ec77b3348b785f4c4b40951/raw/2e03b6f231e8ddeba6c7e40afedd919907138ddf/gistfile1.txt"},
     {Text = "No cooldown 100%", ScriptLink = "https://pastebin.com/raw/Qxnj4RG9"},
