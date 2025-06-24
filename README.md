@@ -200,7 +200,7 @@ local buttonsPagesData = {{
     {Text = "No cooldown 100%", ScriptLink = "https://pastebin.com/raw/Qxnj4RG9"},
     {Text = "Aura", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/69cd1fb21a09185e359a3eb706108aa9/raw/94e203ae28989cbe5c4c5fa2f9bf0f1263937738/gistfile1.txt"},
     {Text = "No clip for damage hitbox", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/04661c54b473431b9ab554de484e1e1f/raw/2a08e9b05c7cd4c64001138728a6b3c316a805e7/gistfile1.txt"},
-    {Text = "Script 7", ScriptLink = "https://pastebin.com/raw/example7"},
+    {Text = "grab base", ScriptLink = "https://pastebin.com/raw/9bjVihxp"},
     {Text = "Script 8", ScriptLink = "https://pastebin.com/raw/example8"},
     {Text = "Script 9", ScriptLink = "https://pastebin.com/raw/example9"},
     {Text = "Auto grab", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/eb3b21915928414653a2b8dd9a40980e/raw/782a51c0004924e47d86c0c008acd280e5af16c3/gistfile1.txt"},
