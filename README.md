@@ -86,7 +86,7 @@ local buttonsPagesData = {{
     {Text = "Instant Spawn", ScriptLink = "https://pastebin.com/raw/4mJt6ZNt"},
     {Text = "No cooldown 75%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/246d84003ec77b3348b785f4c4b40951/raw/2e03b6f231e8ddeba6c7e40afedd919907138ddf/gistfile1.txt"},
     {Text = "No cooldown 100%", ScriptLink = "https://pastebin.com/raw/Qxnj4RG9"},
-    {Text = "Aura", ScriptLink = "https://pastebin.com/raw/qZPVbxFc"},
+    {Text = "Aura", ScriptLink = "https://pastebin.com/raw/Yc09EgZY"},
     {Text = "No clip for damage hitbox", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/04661c54b473431b9ab554de484e1e1f/raw/2a08e9b05c7cd4c64001138728a6b3c316a805e7"},
     {Text = "coming soon", ScriptLink = ""},
     {Text = "spin claws", ScriptLink = "https://pastebin.com/raw/fe8Ut9JQ"},
