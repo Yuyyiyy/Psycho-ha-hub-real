@@ -91,7 +91,7 @@ local buttonsPagesData = {{
     {Text = "coming soon", ScriptLink = ""},
     {Text = "spin claws", ScriptLink = "https://pastebin.com/raw/fe8Ut9JQ"},
     {Text = "Anti lag", ScriptLink = "https://pastebin.com/raw/u5KgwBeD"},
-    {Text = "Power UP ", ScriptLink = ""}, -- Added placeholder link
+    {Text = "Power UP ", ScriptLink = "https://pastebin.com/raw/UFmx2XJs"}, -- Added placeholder link
     {Text = "SPT auto grab", ScriptLink = "https://pastebin.com/raw/MHN7tVU8"},
     {Text = "Loopbring", ScriptLink = "https://pastebin.com/raw/auhh19BE"},
     {Text = "Use tools", ScriptLink = "https://pastebin.com/raw/fnGNW8Lk"},
