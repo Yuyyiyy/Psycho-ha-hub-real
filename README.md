@@ -96,7 +96,7 @@ local buttonsPagesData = {{
     {Text = "Loopbring", ScriptLink = "https://pastebin.com/raw/auhh19BE"},
     {Text = "Use tools", ScriptLink = "https://pastebin.com/raw/fnGNW8Lk"},
     {Text = "Auto grab", ScriptLink = "https://pastebin.com/raw/QUjHZPAb"},
-    {Text = "Damage hitbox", ScriptLink = "https://pastebin.com/raw/BF4LJ4QB"},
+    {Text = "Damage hitbox", ScriptLink = "https://pastebin.com/NjLGd7jv"},
     {Text = "FPS", ScriptLink = "https://pastebin.com/raw/ZMM98Aaj"},
     {Text = "Lag server", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/6f38723afc3d835dc1f8bc96b9f61bd8/raw/9d7b2525de18a7f1220d5c78fcfdf34b7da5e05f"},
     {Text = "No cooldown 20%", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/435a09384699c8f3e910444d877f123c/raw/29721b83c34f0c51059a6839e978c1b0fc4a7570"},
